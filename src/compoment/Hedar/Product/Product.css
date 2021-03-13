@@ -1,0 +1,23 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+}
+.product-name{
+    color: blueviolet;
+    margin-left: 10px;
+    padding: 10px;
+    font-weight: 400;
+}
+.product-name img{
+ padding-top: 200px;
+}
+.seller-name{
+    text-align: left;
+    margin-left: 40px;
+    font-size: 25px;
+}
+.product-stock{
+    text-align: left;
+    font-size: 20px;
+    margin-left: 40px;
+}
